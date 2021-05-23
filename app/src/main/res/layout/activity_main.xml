@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        tools:src="@drawable/ic_placeholder" />
+        tools:src="@drawable/ic_placeholder"/>
 
     <com.airbnb.lottie.LottieAnimationView
         android:visibility="gone"
